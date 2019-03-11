@@ -1,7 +1,7 @@
-//Finance.js
-//For more information, visit http://financejs.org.
-//Created by Essam Al Joubori
-//Copyright 2014 - 2015 Essam Al Joubori, MIT license
+// Finance.js
+// For more information, visit http://financejs.org.
+// Created by Essam Al Joubori. Adapted to use decimal.js by Tudor Leustean
+// Copyright 2014 - 2019 Essam Al Joubori, Tudor Leustean MIT license
 
 var should = require('chai').should(),
   Finance = require('../accurate-finance');

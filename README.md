@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/VanTudor/accurate-finance.js.svg?branch=master)](https://travis-ci.org/VanTudor/accurate-finance.js)
 
-Finance.js
+Accurate-finance.js
 ==========
 
 <div class="wrappper">

@@ -1,6 +1,7 @@
-//Finance.js
-//For more information, visit http://financejs.org
-//Copyright 2014 - 2015 Essam Al Joubori, MIT license
+// Finance.js
+// For more information, visit http://financejs.org.
+// Created by Essam Al Joubori. Adapted to use decimal.js by Tudor Leustean
+// Copyright 2014 - 2019 Essam Al Joubori, Tudor Leustean MIT license
 
 // Instantiate a Finance class
 var Decimal = require('decimal.js');
